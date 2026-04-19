@@ -31,7 +31,7 @@
 
 ### 📊 GitHub Stats
 
-![Sumin's GitHub stats](https://github-readme-stats-umber-beta-68.vercel.app/api?username=starsumin&show_icons=true&theme=radical&count_private=true)
+![Sumin's GitHub stats](https://github-readme-stats-umber-beta-68.vercel.app/api?username=starsumin&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 ---
 
 ### 🛠 Tech Stack
