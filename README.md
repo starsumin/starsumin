@@ -8,19 +8,30 @@
 
 ---
 
-### 🚀 Recent Project: 경험의 가치를 재정의하는 플랫폼
-*비즈니스 안정성과 확장성을 고려한 NestJS 백엔드 아키텍처 직접 설계 및 구현*
+### 🚀 Recent Project: 경험 기반 커머스 플랫폼 백엔드 개발 (NestJS)
+*비즈니스 안정성과 확장성을 고려한 백엔드 아키텍처 직접 설계 및 구현*
 
-* **Core Logic:** 단순 CRUD를 넘어, 트랜잭션을 적극 활용한 설계
-* **Safe System:** 무차별 대입 공격(Brute-force) 방지를 위한 Rate-Limit 적용 및 보안이 강화된 JWT 다중 채널(User/Admin/OAuth) 인증 체계 구축
-* **Business Flow:** 상태 머신 패턴을 응용한 상태 제어 폴리시 구현 및 PortOne API 기반 복합 환불·쿠폰 시스템 구축
-* **Reliability:** AOP 기반의 민감 정보 자동 마스킹 처리가 적용된 감사 로그 구현 및 스케줄러(Cron)를 활용한 결제 실패/만료 건 자동 복구 시스템 구축
+
+* **NestJS 기반 모듈화 아키텍처 설계 및 트랜잭션 관리 전략 수립**
+  → 결제/쿠폰/환불 과정에서 데이터 정합성 보장
+
+* **인증/보안 시스템 구축**
+  → JWT 기반 User/Admin/OAuth 다중 인증 구조 설계
+  → Rate Limit 적용으로 Brute-force 공격 대응
+
+* **결제 및 비즈니스 로직 설계**
+  → PortOne API 연동
+  → 상태 머신 패턴을 활용해 결제/환불/쿠폰 상태 흐름 관리
+
+* **운영 안정성 강화**
+  → Cron 기반 결제 실패 및 만료 건 자동 복구 처리
+  → AOP를 활용한 감사 로그 및 민감 정보 마스킹 자동화
 
 ---
 
 ### 📊 GitHub Stats
 
-![Sumin's GitHub stats](https://github-readme-stats.vercel.app/api?username=starsumin&show_icons=true&theme=radical&count_private=true)
+![Sumin's GitHub stats](https://github-readme-stats-umber-beta-68.vercel.app/api?username=starsumin&show_icons=true&theme=radical&count_private=true)
 ---
 
 ### 🛠 Tech Stack
