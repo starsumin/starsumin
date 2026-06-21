@@ -50,7 +50,7 @@
 ### 🎓 Academic & Psychology
 
 * **Hanyang Univ. Master's Degree (GPA 4.3):** 학문적 성실함과 깊이 있는 분석력을 갖추었습니다.
-* **Workplace Psychology:** 조직 내 협업 시 심리학적 프레임워크를 적용하여 원활한 커뮤니케이션과 최적의 팀워크를 이끌어냅니다.
+* **Workplace Psychology:** 올라운더로 디자인, 개발 등을 모두 다룰 수 있으니 실행 속도가 무지 빠릅니다. 타 팀의 문제를 해결로 이끌어냅니다.
 * **Gamification:** 마케팅 캠페인에 게임화 요소를 도입하여 유저 참여도를 극대화하는 전략에 강점이 있습니다.
 
 ---
